@@ -1,1 +1,1 @@
-my first coe in python guys
+my first code in python guys
